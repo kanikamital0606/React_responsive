@@ -1,0 +1,8 @@
+.conatinerA{
+    display: grid;
+    grid-template-columns: 60% 40%;
+  
+}
+.conatinerA div{
+    margin: 1rem; 
+}
